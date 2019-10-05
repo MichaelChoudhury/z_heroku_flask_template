@@ -3,5 +3,5 @@ Flask-RESTful
 gunicorn
 itsdangerous
 Jinja2
-peewee
+#peewee
 Werkzeug
